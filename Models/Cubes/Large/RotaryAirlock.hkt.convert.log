@@ -1,4 +1,4 @@
-Command: D:\FBXImporter\FBXImporter.exe C:\Users\Bryon\AppData\Roaming\SpaceEngineers\Mods\Rotary Airlock\Models\Cubes\Large\RotaryAirlock.hkt.fbx C:\Users\Bryon\AppData\Roaming\SpaceEngineers\Mods\Rotary Airlock\Models\Cubes\Large\RotaryAirlock.hkt 
+Command: D:\FBXImporter\FBXImporter.exe C:\Users\Bryon\AppData\Roaming\SpaceEngineers\Mods\Rotary_Airlock\Models\Cubes\Large\RotaryAirlock.hkt.fbx C:\Users\Bryon\AppData\Roaming\SpaceEngineers\Mods\Rotary_Airlock\Models\Cubes\Large\RotaryAirlock.hkt 
 ------------------------------------------------------------------
  Havok - Build (20130718)
  Version 2013.1.0-r1
@@ -13,7 +13,7 @@ Modeller: FBX [Blender (stable FBX IO)]
 Bones: 0
 Animation stacks: 0
 Converting nodes for root...
-Output path: C:\Users\Bryon\AppData\Roaming\SpaceEngineers\Mods\Rotary Airlock\Models\Cubes\Large\
+Output path: C:\Users\Bryon\AppData\Roaming\SpaceEngineers\Mods\Rotary_Airlock\Models\Cubes\Large\
 -------------------------------------------------------------------------------
 Saved tag file: RotaryAirlock.hkt
 Number of frames: 1
