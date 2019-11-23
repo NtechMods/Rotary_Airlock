@@ -163,7 +163,7 @@
 		  <RotationAxis>Y</RotationAxis>
 		  <MaxOpen>180</MaxOpen>
 		  <InvertRotation>true</InvertRotation>
-		  <Speed>80</Speed>
+		  <Speed>90</Speed>
           <PivotPosition x="0" y="0" z="0" />
 		  <OpenSound>ParticleHeavyMech</OpenSound>
 		  <CloseSound>ParticleHeavyMech</CloseSound>
@@ -243,7 +243,7 @@
 		  <RotationAxis>Y</RotationAxis>
 		  <MaxOpen>180</MaxOpen>
 		  <InvertRotation>true</InvertRotation>
-		  <Speed>80</Speed>
+		  <Speed>90</Speed>
           <PivotPosition x="0" y="0" z="0" />
 		  <OpenSound>ParticleHeavyMech</OpenSound>
 		  <CloseSound>ParticleHeavyMech</CloseSound>
@@ -329,7 +329,7 @@
 		  <RotationAxis>Y</RotationAxis>
 		  <MaxOpen>180</MaxOpen>
 		  <InvertRotation>false</InvertRotation>
-		  <Speed>80</Speed>
+		  <Speed>90</Speed>
           <PivotPosition x="0" y="0" z="0" />
 		  <OpenSound>ParticleHeavyMech</OpenSound>
 		  <CloseSound>ParticleHeavyMech</CloseSound>
@@ -405,7 +405,7 @@
 		  <RotationAxis>Y</RotationAxis>
 		  <MaxOpen>180</MaxOpen>
 		  <InvertRotation>false</InvertRotation>
-		  <Speed>80</Speed>
+		  <Speed>90</Speed>
           <PivotPosition x="0" y="0" z="0" />
 		  <OpenSound>ParticleHeavyMech</OpenSound>
 		  <CloseSound>ParticleHeavyMech</CloseSound>
