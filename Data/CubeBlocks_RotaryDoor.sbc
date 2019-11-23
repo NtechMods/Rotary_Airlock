@@ -169,12 +169,6 @@
 		  <CloseSound>ParticleHeavyMech</CloseSound>
 		</Opening>
 	  </OpeningSequence>
-      <BlockVariants>
-        <BlockVariant>
-          <TypeId>AdvancedDoor</TypeId>
-          <SubtypeId>RotaryAirlockCorner</SubtypeId>
-        </BlockVariant>
-      </BlockVariants>
       <PCU>115</PCU>   
     </Definition>
 	
@@ -250,12 +244,7 @@
 		</Opening>
 	  </OpeningSequence>
 	  <IsAirTight>true</IsAirTight>
-      <BlockVariants>
-        <BlockVariant>
-          <TypeId>AdvancedDoor</TypeId>
-          <SubtypeId>RotaryAirlockCornerSmallGrid</SubtypeId>
-        </BlockVariant>
-      </BlockVariants>
+	  <GuiVisible>false</GuiVisible>
       <PCU>115</PCU>   
     </Definition>
 	
