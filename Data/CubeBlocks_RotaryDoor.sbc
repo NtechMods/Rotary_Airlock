@@ -40,10 +40,10 @@
             <DisplayName>DisplayName_Block_Door</DisplayName>
             <Description>Description_Door</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_Door" Subtype="" />
-                <Block Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
                 <Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlock" />
                 <Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockCorner" />
+                <Block Type="MyObjectBuilder_Door" Subtype="" />
+                <Block Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
             </Blocks>
         </BlockVariantGroup>
    </BlockVariantGroups>
