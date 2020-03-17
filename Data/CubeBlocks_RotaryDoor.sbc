@@ -40,10 +40,11 @@
 			<DisplayName>DisplayName_Block_Door</DisplayName>
 			<Description>Description_Door</Description>
 			<Blocks>
+				<Block Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
+				<Block Type="MyObjectBuilder_Door" Subtype="" />
+                <Block Type="MyObjectBuilder_Door" Subtype="LargeBlockOffsetDoor" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlock" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockCorner" />
-				<Block Type="MyObjectBuilder_Door" Subtype="" />
-				<Block Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
 			</Blocks>
 		</BlockVariantGroup>
 	</BlockVariantGroups>
@@ -170,6 +171,7 @@
 					<CloseSound>ParticleHeavyMech</CloseSound>
 				</Opening>
 			</OpeningSequence>
+			<GuiVisible>false</GuiVisible>
 			<PCU>115</PCU>   
 		</Definition>
 
@@ -246,7 +248,6 @@
 				</Opening>
 			</OpeningSequence>
 			<IsAirTight>true</IsAirTight>
-			<GuiVisible>false</GuiVisible>
 			<PCU>115</PCU>   
 		</Definition>
 
