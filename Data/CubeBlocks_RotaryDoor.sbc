@@ -45,6 +45,8 @@
                 <Block Type="MyObjectBuilder_Door" Subtype="LargeBlockOffsetDoor" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlock" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockCorner" />
+				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockSmallGrid" />
+				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockCornerSmallGrid" />
 			</Blocks>
 		</BlockVariantGroup>
 	</BlockVariantGroups>
