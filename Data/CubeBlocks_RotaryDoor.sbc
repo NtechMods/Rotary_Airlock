@@ -35,14 +35,11 @@
 
 	<BlockVariantGroups>
 		<BlockVariantGroup>
-			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DoorGroup" />
+			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DoorGroup2" />
 			<Icon>Textures\GUI\Icons\Cubes\door.dds</Icon>
 			<DisplayName>DisplayName_Block_Door</DisplayName>
 			<Description>Description_Door</Description>
 			<Blocks>
-				<Block Type="MyObjectBuilder_AirtightSlideDoor" Subtype="LargeBlockSlideDoor" />
-				<Block Type="MyObjectBuilder_Door" Subtype="" />
-                <Block Type="MyObjectBuilder_Door" Subtype="LargeBlockOffsetDoor" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlock" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockCorner" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockSmallGrid" />
@@ -164,7 +161,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>Y</RotationAxis>
+					<RotationAxis>X</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>true</InvertRotation>
 					<Speed>90</Speed>
@@ -173,7 +170,7 @@
 					<CloseSound>ParticleHeavyMech</CloseSound>
 				</Opening>
 			</OpeningSequence>
-			<GuiVisible>false</GuiVisible>
+			<GuiVisible>true</GuiVisible>
 			<PCU>115</PCU>   
 		</Definition>
 
@@ -240,7 +237,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>Y</RotationAxis>
+					<RotationAxis>X</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>true</InvertRotation>
 					<Speed>90</Speed>
@@ -321,7 +318,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>Y</RotationAxis>
+					<RotationAxis>X</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>false</InvertRotation>
 					<Speed>90</Speed>
@@ -398,7 +395,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>Y</RotationAxis>
+					<RotationAxis>X</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>false</InvertRotation>
 					<Speed>90</Speed>
@@ -418,8 +415,8 @@
 		<BlockPosition>
 			<Name>nukeguard_rotaryDoor</Name>
 			<Position>
-				<X>5</X>
-				<Y>8</Y>
+				<X>7</X>
+				<Y>10</Y>
 			</Position>
 		</BlockPosition>
 	</BlockPositions>
