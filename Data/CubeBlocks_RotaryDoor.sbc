@@ -35,10 +35,10 @@
 
 	<BlockVariantGroups>
 		<BlockVariantGroup>
-			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DoorGroup2" />
+			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="RotaryDoorGroup" />
 			<Icon>Textures\GUI\Icons\Cubes\door.dds</Icon>
-			<DisplayName>DisplayName_Block_Door</DisplayName>
-			<Description>Description_Door</Description>
+			<DisplayName>Rotary Door</DisplayName>
+			<Description>Rotary Door</Description>
 			<Blocks>
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlock" />
 				<Block Type="MyObjectBuilder_AdvancedDoor" Subtype="RotaryAirlockCorner" />
