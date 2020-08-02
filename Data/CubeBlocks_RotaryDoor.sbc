@@ -161,7 +161,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>X</RotationAxis>
+					<RotationAxis>Y</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>true</InvertRotation>
 					<Speed>90</Speed>
@@ -237,7 +237,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>X</RotationAxis>
+					<RotationAxis>Y</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>true</InvertRotation>
 					<Speed>90</Speed>
@@ -318,7 +318,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>X</RotationAxis>
+					<RotationAxis>Y</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>false</InvertRotation>
 					<Speed>90</Speed>
@@ -395,7 +395,7 @@
 				<Opening>
 					<IDs>0</IDs> 
 					<Move>Rotate</Move>
-					<RotationAxis>X</RotationAxis>
+					<RotationAxis>Y</RotationAxis>
 					<MaxOpen>180</MaxOpen>
 					<InvertRotation>false</InvertRotation>
 					<Speed>90</Speed>
