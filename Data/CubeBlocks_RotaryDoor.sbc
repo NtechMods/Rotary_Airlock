@@ -137,7 +137,6 @@
 			</MountPoints>
 			<BuildProgressModels>
 				<Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\RotaryAirlock_Constr1.mwm" />
-				<Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\RotaryAirlock_Constr2.mwm" />
 			</BuildProgressModels>
 			<BlockPairName>nukeguard_rotaryDoor</BlockPairName>
 			<Description>A 100% sealed door that is never opened to vacuum. Straight passthrough.</Description>
