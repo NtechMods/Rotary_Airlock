@@ -34,7 +34,7 @@
     <BlockVariantGroups>
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="RotaryDoorGroup" />
-            <Icon>Textures\GUI\Icons\Cubes\door.dds</Icon>
+            <Icon>Textures\GUI\Icons\RotaryAirlock.dds</Icon>
             <DisplayName>Rotary Door</DisplayName>
             <Description>Rotary Door</Description>
             <Blocks>
@@ -400,7 +400,7 @@
             <Name>nukeguard_rotaryDoor</Name>
             <Position>
                 <X>7</X>
-                <Y>10</Y>
+                <Y>11</Y>
             </Position>
         </BlockPosition>
     </BlockPositions>
