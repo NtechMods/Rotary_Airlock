@@ -231,7 +231,7 @@
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
             <IsAirTight>true</IsAirTight>
-            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <BuildTimeSeconds>18</BuildTimeSeconds>
             <DisassembleRatio>1.5</DisassembleRatio>
             <PowerConsumptionIdle>0.00001</PowerConsumptionIdle>
             <PowerConsumptionMoving>0.025</PowerConsumptionMoving>
@@ -248,7 +248,7 @@
                     <RotationAxis>Y</RotationAxis>
                     <MaxOpen>180</MaxOpen>
                     <InvertRotation>true</InvertRotation>
-                    <Speed>100</Speed>
+                    <Speed>130</Speed>
                     <PivotPosition x="0" y="0" z="0" />
                     <OpenSound>ParticleHeavyMech</OpenSound>
                     <CloseSound>ParticleHeavyMech</CloseSound>
@@ -305,7 +305,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <BuildTimeSeconds>18</BuildTimeSeconds>
             <DisassembleRatio>1.5</DisassembleRatio>
             <PowerConsumptionIdle>0.00001</PowerConsumptionIdle>
             <PowerConsumptionMoving>0.025</PowerConsumptionMoving>
@@ -384,7 +384,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <BuildTimeSeconds>18</BuildTimeSeconds>
             <DisassembleRatio>1.5</DisassembleRatio>
             <PowerConsumptionIdle>0.00001</PowerConsumptionIdle>
             <PowerConsumptionMoving>0.025</PowerConsumptionMoving>
@@ -401,7 +401,7 @@
                     <RotationAxis>Y</RotationAxis>
                     <MaxOpen>180</MaxOpen>
                     <InvertRotation>false</InvertRotation>
-                    <Speed>100</Speed>
+                    <Speed>130</Speed>
                     <PivotPosition x="0" y="0" z="0" />
                     <OpenSound>ParticleHeavyMech</OpenSound>
                     <CloseSound>ParticleHeavyMech</CloseSound>
@@ -459,7 +459,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <BuildTimeSeconds>18</BuildTimeSeconds>
             <DisassembleRatio>1.5</DisassembleRatio>
             <PowerConsumptionIdle>0.00001</PowerConsumptionIdle>
             <PowerConsumptionMoving>0.025</PowerConsumptionMoving>
