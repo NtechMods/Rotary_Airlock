@@ -171,6 +171,7 @@
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
             <IsAirTight>true</IsAirTight>
+            <Public>false</Public>
             <BuildTimeSeconds>24</BuildTimeSeconds>
             <DisassembleRatio>1.5</DisassembleRatio>
             <!-- <PowerConsumptionIdle>0.00001</PowerConsumptionIdle>
@@ -181,7 +182,7 @@
                     <Name>subpart_RotaryDoorPart_section_1</Name>
                 </SubpartDefinition>
             </Subparts>
-            <GuiVisible>true</GuiVisible>
+            <GuiVisible>false</GuiVisible>
             <PCU>115</PCU>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_AdvancedDoorDefinition">
